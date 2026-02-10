@@ -70,4 +70,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-(https://www.figma.com/proto/t4CSZBoWWo7AdJ6g9bnkj7/squirrel-prototypes?node-id=68-62&p=f&t=GgRgydleJ3xHcWGZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=22%3A2)
+https://www.figma.com/proto/t4CSZBoWWo7AdJ6g9bnkj7/squirrel-prototypes?node-id=68-62&p=f&t=GgRgydleJ3xHcWGZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=22%3A2
