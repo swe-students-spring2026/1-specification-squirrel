@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Yi Lai - https://github.com/laiEEEEEEE
 Inoo Jung - https://github.com/ij2298-oss
+Sean Kim - https://github.com/seankimh
 
 ## Stakeholders
 
