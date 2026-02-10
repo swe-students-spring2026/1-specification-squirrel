@@ -61,6 +61,23 @@ Student (Inoo)
     As a student, I want to withdraw from an accepted task so that I can stop if I am no longer able to help.
     As a student, I want to report inappropriate requests or users so that the platform remains safe and fair.
     As a student, I want to message the other student so that we can communicate about the task details.
+Admin (Hanxi)
+    As an admin, I want to approve or reject new user accounts so that only verified students can use the app.
+    As an admin, I want to view user profiles and activity history so that I can find problems when needed.
+    As an admin, I want to ban users who are suspicious so that the community stays safe.
+    As an admin, I want to see all tasks so that I can monitor listings.
+    As an admin, I want to see user reports about tasks so that I can find problems.
+    As an admin, I want to take down suspicious tasks so that users stay safe.	
+    As an admin, I want to send announcements so that users receive updates.
+    As an admin, I want to respond to user feedback so that the app can be improved.
+    As an admin, I want to review completed tasks so that I can check for misuse.
+    As an admin, I want to restore accounts so that mistakes can be fixed.
+    As an admin, I want to review ratings so that misuse can be detected.
+    As an admin, I want to set community rules so that expectations are clear.
+    As an admin, I want to verify student IDs so that only campus members join.
+    As an admin, I want to require email verification so that fake accounts are reduced.
+    As an admin, I want to mute users temporarily so that conflicts are reduced.
+
 
 
 ## Activity Diagrams
